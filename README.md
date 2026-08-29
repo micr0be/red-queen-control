@@ -41,6 +41,10 @@ The first useful experiment is deliberately small: compare static per-agent moni
 
 📄 **[Read the full concept note (PDF)](./Red%20Queen%20Control-v2%20Federated%20Artificial%20Immune%20Ecology.pdf)**
 
+📝 **[Read the machine-readable Markdown edition](./Red_Queen_Control_v2.md)**
+
+The Markdown edition mirrors the substantive paper text in a format that is easier for search, indexing and automated research systems to retrieve and analyse. The PDF remains the canonical visual edition.
+
 ## Attribution
 
 Published under the `micr0be` GitHub account. The paper is shared in a personal capacity for discussion, criticism and stress-testing.
