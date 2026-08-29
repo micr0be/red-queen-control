@@ -39,7 +39,7 @@ The first useful experiment is deliberately small: compare static per-agent moni
 
 ## Paper
 
-📄 **[Read the full concept note (PDF)](./Red_Queen_Control_v2_Federated_Artificial_Immune_Ecology.pdf)**
+📄 **[Read the full concept note (PDF)](./Red%20Queen%20Control-v2%20Federated%20Artificial%20Immune%20Ecology.pdf)**
 
 ## Attribution
 
