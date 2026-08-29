@@ -41,10 +41,8 @@ The first useful experiment is deliberately small: compare static per-agent moni
 
 📄 **[Read the full concept note (PDF)](./Red_Queen_Control_v2_Federated_Artificial_Immune_Ecology.pdf)**
 
-## Author
+## Attribution
 
-**Charles Toumieh**  
-Lead AI Security Architect / Consultant — KPMG UK & Swiss  
-Writing in a personal capacity.
+Published under the `micr0be` GitHub account. The paper is shared in a personal capacity for discussion, criticism and stress-testing.
 
 August 2026
